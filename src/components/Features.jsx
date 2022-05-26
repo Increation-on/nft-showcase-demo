@@ -7,7 +7,7 @@ const Features = () => {
             <div className={`${styles.subSection} flex-col text-center`}>
                 <div>
                     <h1 className={`${styles.h1Text}`}>Technologies</h1>
-                    <p>ProNef has been developed using a cross-platform technology, React Native.</p>
+                    <p>Bla bla bla</p>
                 </div>
             </div>
         </div>
